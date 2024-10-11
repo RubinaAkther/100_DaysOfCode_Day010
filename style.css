@@ -126,6 +126,10 @@ container start
   font-weight: 500;
 }
 
+.btn:hover {
+  background-color: hsl(158, 34%, 27%);
+}
+
 /* 
 =======================================================
 container end
